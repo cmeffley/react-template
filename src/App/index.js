@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import firebase from 'firebase';
+// import firebase from 'firebase';
 import { BrowserRouter as Router } from 'react-router-dom';
 import './App.scss';
 import Routes from '../helpers/Routes';
